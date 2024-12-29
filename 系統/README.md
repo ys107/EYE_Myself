@@ -1,14 +1,14 @@
 **說明** 
 
--eye.py -> 執行檔案
+- eye.py -> 執行檔案
 
--Cover_ui.py -> UI介面檔案
+- Cover_ui.py -> UI介面檔案
 
--database.db -> 資料集(測試用)
+- database.db -> 資料集(測試用)
 
--RYAN_final_data.csv -> 預處理後的檔案，作為歷史資料預測疲勞產生時間(測試用)
+- RYAN_final_data.csv -> 預處理後的檔案，作為歷史資料預測疲勞產生時間(測試用)
 
--selected_features.pkl -> 保存所選擇的特徵
+- selected_features.pkl -> 保存所選擇的特徵
 
 rnn_model.h5 -> RNN模型(數據模型)
 
