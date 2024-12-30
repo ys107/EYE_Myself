@@ -3929,6 +3929,6 @@ if __name__ == '__main__':
             # 呼叫 process_data 處理數據
             processed_file = process_data(window.db_path, window.current_user)
             print(f"數據處理完成，輸出檔案: {processed_file}")
-            #upload_to_google_drive(processed_file)
+            upload_to_google_drive(processed_file)
         except Exception as e:
             print(f"數據處理失敗: {e}")
