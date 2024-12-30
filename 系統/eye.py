@@ -448,7 +448,6 @@ class Window(QMainWindow, ui.Ui_MainWindow):
         """
         加載 CLIP 和 CLIP_CNN_FCNN 模型
         """
-        import clip
         print("模型加載中...")
 
         # 加載 CLIP 模型
