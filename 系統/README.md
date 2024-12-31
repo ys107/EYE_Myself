@@ -4,9 +4,11 @@
 
 - Cover_ui.py -> UI介面檔案
 
-- database.db -> 資料集(測試用)
+- database.db -> 資料集(測試用)(有括號(舊)是舊版不用下載)
 
-- RYAN_final_data.csv -> 預處理後的檔案，作為歷史資料預測疲勞產生時間(測試用)
+- RYAN_final_data.csv -> 預處理後的檔案，作為歷史資料預測疲勞產生時間(勿用)
+- 
+- Mandy_final_data.csv -> 預處理後的檔案，請使用這個檔案測試
 
 - selected_features.pkl -> 保存所選擇的特徵
 
